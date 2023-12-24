@@ -1,0 +1,14 @@
+body {
+  background-color: aquamarine;
+}
+
+h1 {
+  width: 1000px;
+  border-radius: 20px;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  background-color: blue;
+  color: wheat;
+}
